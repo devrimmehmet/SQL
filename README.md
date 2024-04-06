@@ -7,3 +7,7 @@
 
 - [x] [2 - Relational Databases](./topics/relational.databases.md)
 
+---
+
+##### Resources:
+ [Socratica](https://www.youtube.com/playlist?list=PLi01XoE8jYojRqM4qGBF1U90Ee1Ecb5tt)

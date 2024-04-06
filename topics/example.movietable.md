@@ -1,3 +1,4 @@
+[<<<----- Basic Command (Create, Alter, Drop, Add, Update, Delete)](./topics/basic.commands.md)
 # 1.1 - Example 1 
 
 ## Movie Table
@@ -75,3 +76,5 @@ delete from movies where title='Test'
 select * from movies
 ```
 
+
+[----->>> Relational Databases](./topics/relational.databases.md)
