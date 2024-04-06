@@ -1,15 +1,15 @@
-[<<<----- Basic Command (Create, Alter, Drop, Add, Update, Delete)](../../../blob/main/topics/basic.commands.md)
+[<<<----- Basic Command (Create, Alter, Drop, Add, Update, Delete ) && Basit Komutlar (Oluştur, Güncelle, Sil, Ekle, Güncelle, Sil )](../../../blob/main/topics/basic.commands.md)
 
 ---
 
-# 1.1 - Example 1 
+# 1.1 - Example 1 && Örnek 1
 
-## Movie Table
+## Movie Table && Movie Tablosu
 
 ![devrimmehmet](https://raw.githubusercontent.com/devrimmehmet/SQL/main/images/table-for-example.png)
 
 ---
-### Step 1 : Create Database
+### Step 1 : Create Database && Adım 1 : Veritabanı Oluştur
 ```sql
 create database devrimmehmet;
 ```
@@ -40,13 +40,13 @@ Go by constantly checking what you have done with a select query.(pay attention 
 
 
 
-### Step 2 : Create Tables
+### Step 2 : Create Tables && Adım 2 : Tabloları Oluştur
 ```sql
 create table users(user_id int, first_name varchar(100), last_name varchar(100), email varchar(255), encrypted_password varchar(1000));
 create table movies (movie_id int, title varchar(100), description varchar(100), price varchar(255));
 create table purchases(user_id int, movie_id int, purchase_date varchar(255), purchase_price varchar(100));
 ```
-### Step 3 : Add rows ( Insert )
+### Step 3 : Add rows ( Insert ) && Adım 3 : Movies Tablosuna Veri Ekle
 ```sql
 insert into movies (movie_id,title,description,price) values (1,'The Last Of Castle', 'Movie or Documentary', 4.99)
 insert into movies (title,price) values ('Into The Wild', 6.99)
@@ -54,25 +54,25 @@ insert into movies (title,price) values ('Eternal sunshine of the spotless mind'
 insert into movies (title,price) values ('Soul', 8.88)
 insert into movies (title,price) values ('Test', 9.99)
 ```
-### Step 4 : Select
+### Step 4 : Select && Adım 4 : Tabloları Görüntüle
 ```sql
 select * from movies
 select title, price from movies
 ```
-### Step 5 : Order By [column] --> Ascending sort 
+### Step 5 : Order By [column] --> Ascending sort && Adım 5 : Artan Sıralama
 ```sql
 select title, price from movies order by price; 
 ```
-### Step 6 : Order By [column] --> Descending sort 
+### Step 6 : Order By [column] --> Descending sort && Adım 6 : Azalan Sıralama
 ```sql
 select title, price from movies order by price desc;
 ```
-### Step 7 : Update
+### Step 7 : Update && Adım 7 : Bir tablodaki bir satırı güncelleme
 ```sql
 update movies set price=0.99 where title='Soul' 
 select * from movies
 ```
-### Step 8 : Delete
+### Step 8 : Delete && Adım 8 : Tablodan bir satırı silme
 
 ```sql
 delete from movies where title='Test'
@@ -82,4 +82,4 @@ select * from movies
 
 ---
 
-[----->>> Relational Databases](../../../blob/main/topics/relational.databases.md)
+[----->>> Relational Databases && İlişkisel Veritabanları](../../../blob/main/topics/relational.databases.md)
