@@ -15,4 +15,4 @@
 ##### Resources:
 [php_mysql_notlari [Nuri Akman - Osman KAYI]](https://github.com/OsmanKAYI/php_mysql_notlari/)
 
- [Socratica](https://www.youtube.com/playlist?list=PLi01XoE8jYojRqM4qGBF1U90Ee1Ecb5tt)
+[Socratica](https://www.youtube.com/playlist?list=PLi01XoE8jYojRqM4qGBF1U90Ee1Ecb5tt)

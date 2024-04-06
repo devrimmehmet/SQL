@@ -37,5 +37,7 @@ Drop Table users;
 Drop database social_network;
 ```
 
+
 ---
+
 [----->>> Example 1 - MovieTable](../../../blob/main/topics/example.movietable.md)
