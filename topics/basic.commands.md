@@ -1,9 +1,11 @@
+# 1 - Basic SQL Commands
+## Create, Alter, Drop, Add, Update, Delete
+---
 ###  Create Database
 
 ```sql
 create database social_network;
 ```
----
 
 ###  Create Table
 
