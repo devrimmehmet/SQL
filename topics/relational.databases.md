@@ -61,6 +61,6 @@ For small scale jobs
 ![PostgreSQL](https://raw.githubusercontent.com/devrimmehmet/SQL/main/images/PostgreSQL-logo.png)
 
 
-[----->>> Postgres](../../../topics/postgresql.md)
+[----->>> Postgres](../../../blob/main/topics/postgresql.md)
 
 
