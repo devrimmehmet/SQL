@@ -1,37 +1,37 @@
-# 1 - Basic SQL Commands && Basit SQL Komutları
-## Create, Alter, Drop, Add, Update, Delete && Oluştur, Güncelle, Sil, Ekle, Güncelle, Sil
+# 1 - Basic SQL Commands
+## Create, Alter, Drop, Add, Update, Delete
 ---
-###  Create Database && Veritabanı Oluştur
+###  Create Database
 
 ```sql
 create database social_network;
 ```
 
-###  Create Table && Tablo Oluştur
+###  Create Table
 
 ```sql
 create table users(user_id int,first_name VARCHAR(100),last_name VARCHAR(100),email VARCHAR(255)); 
 ```
 
-### Update Table Add && Tablo Güncelleme (Kolon Ekleme)
+### Update Table Add
 
 ```sql
 alter table users add encrypted_password varchar(1000);
 ```
 
-### Delete a Column From The Table && Tablo Güncelleme ( Kolon Silme )
+### Delete a Column From The Table 
 
 ```sql
 Alter Table users Drop Column email;
 ```
 
-### Delete Table && Tablo Silme
+### Delete Table 
 
 ```sql
 Drop Table users;
 ```
 
-### Delete Database && Veritabanı Silme
+### Delete Database 
 
 ```sql
 Drop database social_network;
@@ -40,4 +40,4 @@ Drop database social_network;
 
 ---
 
-[----->>> Example 1 - MovieTable && Örnek 1](../../../blob/main/topics/example.movietable.md)
+[----->>> Example 1 - MovieTable](../../../blob/main/topics/example.movietable.md)

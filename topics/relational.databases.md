@@ -1,14 +1,14 @@
-[<<<----- Example 1 - MovieTable && Örnek 1 - MovieTable](../../../blob/main/topics/example.movietable.md)
+[<<<----- Example 1 - MovieTable](../../../blob/main/topics/example.movietable.md)
 
 ---
 
-# 2 - Relational Databases && İlişkisel Veritabanları
+# 2 - Relational Databases
 
-## Which One to Choose and Why? && Hangisini ve Neden Seçmek Gerekiyor?
+## Which One to Choose and Why?
 
-### Open Source vs Commercial && Açık Kaynak vs Ticari
+### Open Source vs Commercial
 
-#### Commercial Databases && Ticari Veritabanları
+#### Commercial Databases
 
 Oracle 
 
@@ -22,7 +22,7 @@ Microsoft
 
 ![Microsoft](https://raw.githubusercontent.com/devrimmehmet/SQL/main/images/microsoft-sql-server-logo.jpeg)
 
-#### Open Source && Açık Kaynak Veritabanları
+#### Open Source 
 
 MySql 
 
@@ -40,14 +40,14 @@ SQLite
 
 ![SQLite](https://raw.githubusercontent.com/devrimmehmet/SQL/main/images/SQLLite-logo.png)
 
-### Data Size & Demand && Veri Boyutu ve Kullanım Sıklığı Kriterleri
+### Data Size & Demand
 
-#### Local Storage && Yerel bir sunucu yada yerel depolama
-For small scale jobs && Küçük ölçekli işler için
+#### Local Storage
+For small scale jobs
 
-#### Cloud Data Storage && Bulut Veri Depolama
-    - Proprietary && Tescilli
-    - Open Source && Açık Kaynak
+#### Cloud Data Storage
+    - Proprietary
+    - Open Source
         MySQL
         PostgreSQL
         MariaDB
@@ -60,18 +60,18 @@ For small scale jobs && Küçük ölçekli işler için
                 Backup: 
                     * Remote backups
             
-            Cloud Services: && Bulut Servislerin özellikleri
-                * Data Storage && Veri Depolama
-                * File Storage && Dosya Depolama
-                * Analytics && Analizler
-                * Artificial Intelligence && Yapay Zeka
-                * Machine Learning && Makine Öğrenmesi 
+            Cloud Services:
+                * Data Storage
+                * File Storage
+                * Analytics
+                * Artificial Intelligence
+                * Machine Learning
 
-            Classifiers : && Sınıflandırıcılar
+            Classifiers :
 
-### Horizontal Scalability && Yatayda Ölçekleme
+### Horizontal Scalability
 
-#### Currently there is a low possibility of growth in the future && Şu anda yeterli ama gelecekte büyüme potansiyeli olan sunucularda kullanım önemli.
+#### Currently there is a low possibility of growth in the future
 
 [PostgreSQL](https://www.postgresql.org/)
 
@@ -80,5 +80,4 @@ For small scale jobs && Küçük ölçekli işler için
 ---
 
 [----->>> Postgres](../../../blob/main/topics/postgresql.md)
-
 
