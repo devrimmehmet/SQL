@@ -1,4 +1,4 @@
-[<<<----- Example 1 - MovieTable](../../../topics/example.movietable.md)
+[<<<----- Example 1 - MovieTable](../../../blob/main/topics/example.movietable.md)
 # 2 - Relational Databases
 
 ## Which One to Choose and Why?

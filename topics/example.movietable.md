@@ -1,4 +1,4 @@
-[<<<----- Basic Command (Create, Alter, Drop, Add, Update, Delete)](../../../topics/basic.commands.md)
+[<<<----- Basic Command (Create, Alter, Drop, Add, Update, Delete)](../../../blob/main/topics/basic.commands.md)
 # 1.1 - Example 1 
 
 ## Movie Table
@@ -77,4 +77,4 @@ select * from movies
 ```
 
 
-[----->>> Relational Databases](../../../topics/relational.databases.md)
+[----->>> Relational Databases](../../../blob/main/topics/relational.databases.md)
