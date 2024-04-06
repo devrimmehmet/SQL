@@ -1,4 +1,4 @@
-[<<<----- Example 1 - MovieTable](./topics/example.movietable.md)
+[<<<----- Example 1 - MovieTable](../../../topics/example.movietable.md)
 # 2 - Relational Databases
 
 ## Which One to Choose and Why?
@@ -61,6 +61,6 @@ For small scale jobs
 ![PostgreSQL](https://raw.githubusercontent.com/devrimmehmet/SQL/main/images/PostgreSQL-logo.png)
 
 
-[----->>> Postgres](./topics/postgresql.md)
+[----->>> Postgres](../../../topics/postgresql.md)
 
 
