@@ -7,7 +7,10 @@
 
 - [x] [2 - Relational Databases](./topics/relational.databases.md)
 
+- [x] [3 - PostgreSQL](./topics/postgresql.md)
 ---
 
 ##### Resources:
+[Php - Mysql Notları [Nuri Akman - Osman KAYI]](https://github.com/OsmanKAYI/php_mysql_notlari/)
+
  [Socratica](https://www.youtube.com/playlist?list=PLi01XoE8jYojRqM4qGBF1U90Ee1Ecb5tt)

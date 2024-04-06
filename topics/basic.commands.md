@@ -38,4 +38,4 @@ Drop database social_network;
 ```
 
 ---
-[----->>> Example 1 - MovieTable](./topics/example.movietable.md)
+[----->>> Example 1 - MovieTable](././topics/example.movietable.md)
