@@ -7,7 +7,11 @@
 
 - [x] [2 - Relational Databases](./topics/relational.databases.md)
 
-- [x] [3 - PostgreSQL](./topics/postgresql.md)
+    - [x] [2.1 - PostgreSQL](./topics/postgresql.md)
+
+    - [x] [2.2 - MsSQL](./topics/mssql.md)
+
+- [x] [3 - Select](./topics/mssql.md)
 
 
 ---
