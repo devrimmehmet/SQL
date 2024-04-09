@@ -19,4 +19,4 @@ Microsoft SQL Server is a relational database management system developed and ma
 
 ---
 
-[----->>> SELECT](../../../blob/main/topics/Select.md)
+[----->>> SELECT](../../../blob/main/topics/select.md)
